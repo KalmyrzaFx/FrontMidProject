@@ -3,7 +3,7 @@ This is a simple textarea website written in React + Vite tools, deployed in Net
 When user starts writing text the text area randomly changes its position and its border shadows
 
 deploy https://sparkling-madeleine-c613a5.netlify.app/   
-youtube video 
+youtube video https://www.youtube.com/watch?v=fJ0M6M5D2eI
 
 
 ![image](https://github.com/KalmyrzaFx/FrontMidProject/assets/80804799/9c0c2745-d310-4f44-908d-321bce08d4b7)  
